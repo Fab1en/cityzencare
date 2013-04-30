@@ -1,0 +1,10 @@
+{
+  "name": "CityzenCare",
+  "description": "Application de gestion des appels d'urgence pour le SAMU (démo)",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.2.1",
+    "socket.io": "0.9.14"
+  }
+}

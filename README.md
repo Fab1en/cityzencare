@@ -1,4 +1,4 @@
-cityzencare
+CityzenCare
 ===========
 
 Suite a l’ouverture de la technologie embarquée utilisée par [CityzenCar](http://www.cityzencar.com) pour faciliter la location récurrente de voiture entre particuliers, les CityzenApps Awards récompensent les meilleures idées / concepts / solutions  exploitant les capacités logicielles (l’[API CityzenWare](http://developer.cityzenware.org/)) et matérielles (la [CityzenBox](http://developer.cityzenware.org/cityzenbox-hardware)) dans l’esprit de l’utilisation qu’en fait déjà cityzencar, décalé, utile, à fort impact potentiel, en résonance avec la mission de CityzenCar de mieux utiliser les ressources automobiles éxistantes a proximité.
